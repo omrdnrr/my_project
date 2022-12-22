@@ -1,0 +1,15 @@
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.csproj.AssemblyReference.cache
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.AssemblyInfoInputs.cache
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.AssemblyInfo.cs
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.csproj.CoreCompileInputs.cache
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\bin\Debug\net6.0\girilendegerleritoplayanprogram.exe
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\bin\Debug\net6.0\girilendegerleritoplayanprogram.deps.json
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\bin\Debug\net6.0\girilendegerleritoplayanprogram.runtimeconfig.json
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\bin\Debug\net6.0\girilendegerleritoplayanprogram.dll
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\bin\Debug\net6.0\girilendegerleritoplayanprogram.pdb
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.dll
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\refint\girilendegerleritoplayanprogram.dll
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.pdb
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\girilendegerleritoplayanprogram.genruntimeconfig.cache
+C:\Users\remoh\OneDrive\Masaüstü\ders notları\programlama temelleri\girilendegerleritoplayanprogram\girilendegerleritoplayanprogram\obj\Debug\net6.0\ref\girilendegerleritoplayanprogram.dll
