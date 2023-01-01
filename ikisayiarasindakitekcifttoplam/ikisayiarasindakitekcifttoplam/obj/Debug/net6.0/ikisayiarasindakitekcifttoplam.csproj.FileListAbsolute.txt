@@ -1,0 +1,15 @@
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\bin\Debug\net6.0\ikisayiarasindakitekcifttoplam.exe
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\bin\Debug\net6.0\ikisayiarasindakitekcifttoplam.deps.json
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\bin\Debug\net6.0\ikisayiarasindakitekcifttoplam.runtimeconfig.json
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\bin\Debug\net6.0\ikisayiarasindakitekcifttoplam.dll
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\bin\Debug\net6.0\ikisayiarasindakitekcifttoplam.pdb
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.csproj.AssemblyReference.cache
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.AssemblyInfoInputs.cache
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.AssemblyInfo.cs
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.csproj.CoreCompileInputs.cache
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.dll
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\refint\ikisayiarasindakitekcifttoplam.dll
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.pdb
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ikisayiarasindakitekcifttoplam.genruntimeconfig.cache
+C:\Users\remoh\source\repos\ikisayiarasindakitekcifttoplam\ikisayiarasindakitekcifttoplam\obj\Debug\net6.0\ref\ikisayiarasindakitekcifttoplam.dll
