@@ -1,0 +1,15 @@
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\bin\Debug\net6.0\Girilensayikadartoplama.exe
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\bin\Debug\net6.0\Girilensayikadartoplama.deps.json
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\bin\Debug\net6.0\Girilensayikadartoplama.runtimeconfig.json
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\bin\Debug\net6.0\Girilensayikadartoplama.dll
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\bin\Debug\net6.0\Girilensayikadartoplama.pdb
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.csproj.AssemblyReference.cache
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.AssemblyInfoInputs.cache
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.AssemblyInfo.cs
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.csproj.CoreCompileInputs.cache
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.dll
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\refint\Girilensayikadartoplama.dll
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.pdb
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\Girilensayikadartoplama.genruntimeconfig.cache
+C:\Users\remoh\source\repos\Girilensayikadartoplama\Girilensayikadartoplama\obj\Debug\net6.0\ref\Girilensayikadartoplama.dll
